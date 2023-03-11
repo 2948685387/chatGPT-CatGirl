@@ -3,11 +3,11 @@
 常量
 """
 
-APP_ID = '31105443'
+APP_ID = ''
 
-API_KEY = 'wHpLMGFhMBKsvQQm1sIq3Em5'
+API_KEY = ''
 
-SECRET_KEY = 'jWkdACTpQsaNXejVp4pIMWrvu76Gs2fk'
+SECRET_KEY = ''
 
 # 语言模型 ， 可以修改为其它语言模型测试，如远场普通话19362
 DEV_PID = 15372
@@ -16,4 +16,4 @@ DEV_PID = 15372
 URI = "ws://vop.baidu.com/realtime_asr"
 
 
-openai_api_key = "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"
+openai_api_key = ""
